@@ -11,6 +11,12 @@ var config = {
       chain_id:
         "4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8"
     },
+    X4Trade: {
+      core_asset: "X4T",
+      address_prefix: "X4T",
+      chain_id:
+      "c92ee680494457f5944976f726afa77fb043873f0f74572ba537c383297a1a30"
+    },
     Muse: {
       core_asset: "MUSE",
       address_prefix: "MUSE",
